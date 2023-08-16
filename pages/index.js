@@ -5,7 +5,6 @@ import styles from '../styles/home.module.css'
 
 function throwError() {
   console.log(
-    // The function body() is not defined
     document.body()
   )
 }
